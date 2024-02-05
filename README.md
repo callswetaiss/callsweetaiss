@@ -14,19 +14,19 @@
 - <b>Google CyberSecurity Certificate</b><br>
 - <b>Cisco CyberSecurity Badge</b><br>
 
-h2>🌱 CyberSecurity Projects </h2><br>
+<h2>🌱 CyberSecurity Projects </h2><br>
 - <b>Linux Os for Cybersecurity</b><br>
   I use Linux commmands very well, I teach Linux and use linux commands to analyse and detect threats<br>
-- <b>Use of python language for CyberSecurity analysis </b><br>
-  I have used python for cyberSecurity projects both in labs and practical situations<br>
-- <b>Sql for cybersecurity</b><br>
+- <b>Use of Python language for CyberSecurity analysis </b><br>
+  I have used Python for cyberSecurity projects both in labs and practical situations<br>
+- <b>SQL for cybersecurity</b><br>
   SQL is one the best search, seperation and organising tools for a CyberSecurity analyst I use it in labs and pratical situations<br>
 - <b>Splunk Os for Cybersecurity</b><br>
   I have practice a lot of labs in splunk looking forward to using it in live situations <br>
 - <b>wireShark for CyberSecurity analysis </b><br>
   Wireshark is a protocol analyser I used for packets analysis<br>
-- <b>Suricata for cybersecurity</b><br>
-  I can use Suricata for intrution detection sysytem(IDS) and Intrution prevention system<br>
+- <b>Suricata for CyberSecurity</b><br>
+  I can use Suricata for intrution detection sysytem(IDS) and Intrution prevention system(IPS)<br>
   
   
 
