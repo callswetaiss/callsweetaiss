@@ -10,9 +10,9 @@
 - <b>Suricata </b>
 
 <h2>🌱 My certifications </h2><br>
-- <b></b>Comptia Scurity + Certification<b></b><br>
-- <b></b>Google CyberSecurity Certificate<b></b><br>
-- <b></b>Cisco CyberSecurity <b></b><br>
+- <b>Comptia Scurity + Certification<b></b>
+- <b>Google CyberSecurity Certificate<b></b>
+- <b>Cisco CyberSecurity <b></b>
 
 <h2>🔭 Projects I have worked on are :</h2><br> 
 - <b> Networking and configuration of Diict CBT Center</b><br>
