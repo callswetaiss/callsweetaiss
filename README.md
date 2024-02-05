@@ -12,7 +12,8 @@
 <h2>🌱 My certifications </h2><br>
 - <b>Comptia Scurity + Certification</b><br>
 - <b>Google CyberSecurity Certificate</b><br>
-- <b>Cisco CyberSecurity Badge</b><br>
+- <b>Cisco CyberSecurity adge</b><br>
+- <b>Cisco Packet tracer badge</b><br>
 
 <h2>🌱 CyberSecurity Projects </h2><br>
 - <b>Linux Os for Cybersecurity</b><br>
