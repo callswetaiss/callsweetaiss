@@ -9,6 +9,11 @@
 - <b>WireShark</b>
 - <b>Suricata </b>
 
+<h2>🔭 Projects I have worked on are :</h2> 
+- <b> Networking and configuration of Diict CBT Center</b>
+- <b> ICT support protection of Diict Networks </b>
+- <b> Hybrid support and protection of green park system </b>
+
 <h2>📺 My Youtube Video on CyberSecurity</h2>
 
 - ISC2 Certified In Cybersecurity | Questions MOD 2
