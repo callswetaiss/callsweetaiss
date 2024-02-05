@@ -25,7 +25,7 @@
 
 [twitter]: https://twitter.com/diictnigeria
 [youtube]: https://www.youtube.com/channel/UCoj0_JAwcKdTqMVvpXl-wxQ
-[linkedin]: www.linkedin.com/in/eguevoi-aigbokhai-710992129
+[linkedin]: www.linkedin.com/in/eguevoi-aigbokhai-710992129/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
