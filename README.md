@@ -9,10 +9,15 @@
 - <b>WireShark</b>
 - <b>Suricata </b>
 
+<h2>🌱 My certifications </h2><br>
+- Comptia Scurity + Certification<br>
+- Google CyberSecurity Certificate<br>
+- Cisco CyberSecurity Badges<br>
+
 <h2>🔭 Projects I have worked on are :</h2><br> 
 - <b> Networking and configuration of Diict CBT Center</b><br>
 - <b> ICT support protection of Diict Networks </b><br>
-- <b> Hybrid support and protection of green park system </b><br>
+- <b> Hybrid support and protection of green park systems </b><br>
 
 <h2>📺 My Youtube Video on CyberSecurity</h2>
 
