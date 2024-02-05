@@ -21,9 +21,9 @@
 
 <h2>📺 My Youtube Video on CyberSecurity</h2>
 
-- ISC2 Certified In Cybersecurity | Questions MOD 2
+- ISC2 Certificate In Cybersecurity | Questions MOD 2<br>
   https://youtu.be/QnUNB4qbQYw?si=DVtX04apI5o-sfiD
-- ISC2 Certificate In Cybersecurity
+- ISC2 Certificate In Cybersecurity<br>
   https://youtu.be/rUm7-M-RsAM?si=zKSk1xaPl6wdcRqG
 
 <h2> 🤳 Connect with me:</h2>
