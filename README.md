@@ -45,7 +45,7 @@
   https://youtu.be/rUm7-M-RsAM?si=zKSk1xaPl6wdcRqG
 - My Youtube Channel Name is called <b> Data Street</b><br>
   The Link is https://www.youtube.com/channel/UCoj0_JAwcKdTqMVvpXl-wxQ<br>
-  I do mostly Visualization, Animation and CyberSecurity Videos
+  I do mostly<b>Visualization, Animation and CyberSecurity<b> Videos
 
 <h2> 🤳 Connect with me:</h2>
 
