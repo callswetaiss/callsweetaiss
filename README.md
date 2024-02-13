@@ -1,4 +1,4 @@
-<h1>Hi, I'm Abraham! <br/><a href="https://github.com/callswetaiss/callsweetaiss/edit/main/README.md">CyberSecurity Analyst and Electrical Enginner</a> </h1>
+<h1>Hi, I'm Abraham! <br/><a href="https://github.com/callswetaiss/callsweetaiss/edit/main/README.md">CyberSecurity Analyst and Electrical Engineer</a> </h1>
 
 <h2>👨‍💻 CyberSecurity tools I work with are:</h2>
 
