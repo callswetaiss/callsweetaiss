@@ -1,4 +1,4 @@
-<h1>Hi, I'm Abraham! <br/><a href="https://github.com/callswetaiss/callsweetaiss/edit/main/README.md">CyberSecurity Analyst</a> </h1>
+<h1>Hi, I'm Abraham! <br/><a href="https://github.com/callswetaiss/callsweetaiss/edit/main/README.md">CyberSecurity Analyst and Electrical Enginner</a> </h1>
 
 <h2>👨‍💻 CyberSecurity tools I work with are:</h2>
 
@@ -8,6 +8,13 @@
 - <b>SIEM ( Splunk)</b>
 - <b>WireShark</b>
 - <b>Suricata </b>
+
+<h2>👨‍💻 My Electrical Specialization are::</h2>
+
+- <b>Electrical Instalation and Repairs</b>
+- <b>Distribution System Operator </b>
+- <b>PowerPlant Operation and Maintenance</b> 
+- <b>Electrical Designs</b>
 
 <h2>🌱 My certifications </h2><br>
 - <b>Comptia Scurity + Certification</b><br>
